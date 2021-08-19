@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,gBAGE,UAAW,CACX,WAAY,CACZ,QAAS,CACT,SAAU,CACV,eAAgB,CAChB,sDACF","file":"main.b094a1d7.chunk.css","sourcesContent":["html,\nbody,\n#root {\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 0;\n  overflow: hidden;\n  background: linear-gradient(180deg, #f5fcf9 0%, #f6f6f6 80%);\n}\n\n\n"]}
